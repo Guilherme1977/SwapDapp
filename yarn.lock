@@ -3368,9 +3368,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@graphql-codegen/cli@npm:3.3.0":
-  version: 3.3.0
-  resolution: "@graphql-codegen/cli@npm:3.3.0"
+"@graphql-codegen/cli@npm:3.3.1":
+  version: 3.3.1
+  resolution: "@graphql-codegen/cli@npm:3.3.1"
   dependencies:
     "@babel/generator": ^7.18.13
     "@babel/template": ^7.18.10
@@ -3414,7 +3414,7 @@ __metadata:
     graphql-code-generator: cjs/bin.js
     graphql-codegen: cjs/bin.js
     graphql-codegen-esm: esm/bin.js
-  checksum: 7c3ae7ba62cfb5576e6c1fc78f81a2c59d399415b9ef2ba55818af00aff2337a047a61b1cedb6e89e73dac30d9a00e57045ff6052245934bc4c5cf35c9762250
+  checksum: cc3c0b8f1fd8150591b35b549a04577e84ac9c30396ad100196f594f741dd34e69ec9b1335ec41c00afe4ecf1d7e3505c1859fa244bdef1d10753d2b441de962
   languageName: node
   linkType: hard
 
@@ -7347,7 +7347,7 @@ __metadata:
     "@apollo/client": ^3.7.5
     "@arbitrum/sdk": 3.0.0-beta.12
     "@connext/nxtp-sdk": ^0.1.36
-    "@graphql-codegen/cli": 3.3.0
+    "@graphql-codegen/cli": 3.3.1
     "@graphql-codegen/introspection": 3.0.1
     "@graphql-codegen/typescript": 3.0.3
     "@graphql-codegen/typescript-operations": ^3.0.3

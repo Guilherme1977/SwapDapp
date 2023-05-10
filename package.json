@@ -110,7 +110,7 @@
   },
   "devDependencies": {
     "@connext/nxtp-sdk": "^0.1.36",
-    "@graphql-codegen/cli": "3.3.0",
+    "@graphql-codegen/cli": "3.3.1",
     "@graphql-codegen/introspection": "3.0.1",
     "@graphql-codegen/typescript": "3.0.3",
     "@graphql-codegen/typescript-operations": "^3.0.3",
