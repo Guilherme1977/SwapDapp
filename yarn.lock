@@ -7415,7 +7415,7 @@ __metadata:
     boring-avatars: ^1.7.0
     browserslist: ^4.21.4
     buffer: ^6.0.3
-    chromatic: ^6.17.2
+    chromatic: ^6.17.4
     cids: ^1.1.9
     copy-to-clipboard: ^3.3.3
     cross-env: ^7.0.3
@@ -13759,18 +13759,18 @@ __metadata:
   languageName: node
   linkType: hard
 
-"chromatic@npm:^6.17.2":
-  version: 6.17.2
-  resolution: "chromatic@npm:6.17.2"
+"chromatic@npm:^6.17.4":
+  version: 6.17.4
+  resolution: "chromatic@npm:6.17.4"
   dependencies:
     "@discoveryjs/json-ext": ^0.5.7
     "@types/webpack-env": ^1.17.0
-    snyk-nodejs-lockfile-parser: ^1.47.4
+    snyk-nodejs-lockfile-parser: ^1.49.0
   bin:
     chroma: bin/main.cjs
     chromatic: bin/main.cjs
     chromatic-cli: bin/main.cjs
-  checksum: e42da12354e50eb1c883c29095b3a284779678de11623ea5d2a257ac0077bf07f3edd370da60f8858b39cef7daed2a92b12d45aa6339c2a9059352c5182d02a7
+  checksum: d49ebcc17f2f3010e95d06b5084b7802d293a4ad3cd571dc5b744f5e90763a19b643729fc3dcfe86beb44b6f542800378c7a4c1478b963d3adbdc58a1bfa9988
   languageName: node
   linkType: hard
 
@@ -31454,9 +31454,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"snyk-nodejs-lockfile-parser@npm:^1.47.4":
-  version: 1.48.0
-  resolution: "snyk-nodejs-lockfile-parser@npm:1.48.0"
+"snyk-nodejs-lockfile-parser@npm:^1.49.0":
+  version: 1.49.0
+  resolution: "snyk-nodejs-lockfile-parser@npm:1.49.0"
   dependencies:
     "@snyk/dep-graph": ^2.3.0
     "@snyk/graphlib": 2.1.9-patch.3
@@ -31469,13 +31469,14 @@ __metadata:
     lodash.isempty: ^4.4.0
     lodash.topairs: ^4.3.0
     micromatch: ^4.0.5
+    p-map: ^4.0.0
     semver: ^7.3.5
     snyk-config: ^5.0.0
     tslib: ^1.9.3
     uuid: ^8.3.0
   bin:
     parse-nodejs-lockfile: bin/index.js
-  checksum: 684907b1068765fb4920272b8ae89766e2ae634cc21c9e9e18d32f7ad143658449d4e873f550c6e2cdd91a88a6aedf2f1be8214f7878ec9a867bb715741d4f00
+  checksum: 8e41273dccc71fadde6923723abe61714a199a54f11de98c82bd0ed0bbf5fa749ca9b85372d52f4d30d27feecbb58c6f739bcc71ef02bb4d374823b2a41a75c4
   languageName: node
   linkType: hard
 
