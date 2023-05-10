@@ -7467,7 +7467,7 @@ __metadata:
     react: ^18.2.0
     react-app-rewired: ^2.2.1
     react-datepicker: ^4.8.0
-    react-device-detect: ^2.2.2
+    react-device-detect: ^2.2.3
     react-dom: ^18.2.0
     react-error-overlay: 6.0.11
     react-fast-marquee: ^1.3.5
@@ -29052,15 +29052,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-device-detect@npm:^2.2.2":
-  version: 2.2.2
-  resolution: "react-device-detect@npm:2.2.2"
+"react-device-detect@npm:^2.2.3":
+  version: 2.2.3
+  resolution: "react-device-detect@npm:2.2.3"
   dependencies:
-    ua-parser-js: ^1.0.2
+    ua-parser-js: ^1.0.33
   peerDependencies:
     react: ">= 0.14.0"
     react-dom: ">= 0.14.0"
-  checksum: d9245cf5a1c1e565e88523ed6be580497d1f6a972fb100a81092943bb7e44afdcdbae0d67bebe7424c4ba5b27a5d13df7894d122307f070fc26062704f7ec788
+  checksum: 42d9b3182b9d2495bf0d7914c9f370da51d8bdb853a3eba2acaf433894ae760386a075ba103185be825b33d42f50d85ef462087f261656d433f4c74dab23861f
   languageName: node
   linkType: hard
 
@@ -33990,10 +33990,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"ua-parser-js@npm:^1.0.2":
-  version: 1.0.32
-  resolution: "ua-parser-js@npm:1.0.32"
-  checksum: 79a80efd9c21511fdafc042ab748e0e93c8cdb0e8925bf6d48ad7dbb08e808c60fcecd49e679670def44ef428c005aa1810810f6773e7d8135a7817338080813
+"ua-parser-js@npm:^1.0.33":
+  version: 1.0.35
+  resolution: "ua-parser-js@npm:1.0.35"
+  checksum: 02370d38a0c8b586f2503d1c3bbba5cbc0b97d407282f9023201a99e4c03eae4357a2800fdf50cf80d73ec25c0b0cc5bfbaa03975b0add4043d6e4c86712c9c1
   languageName: node
   linkType: hard
 
